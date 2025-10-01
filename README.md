@@ -1,19 +1,22 @@
-# Getting Started
-Install the dependencies and run the project
-```
-npm install
-npm start
-```
+# Business Card Project  
 
-Head over to https://vitejs.dev/ to learn more about configuring vite
-## About Scrimba
+This is a small project I built as part of the **Scrimba Learn HTML and CSS Course**.  
+The goal of this project was to practice structuring a simple webpage and styling it with CSS.  
 
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Fullstack Developer Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
+## Features  
+- Clean and minimal card layout  
+- Profile image with circular styling  
+- Name, role, and location details section  
+- Simple color palette and typography  
 
-- [Our courses](https://scrimba.com/courses)
-- [The Frontend Career Path](https://scrimba.com/fullstack-path-c0fullstack)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
+## Tech Stack  
+- **HTML5** – for page structure  
+- **CSS3** – for styling and layout  
 
-Happy Coding!
+## What I Learned  
+- How to structure content using semantic HTML  
+- Applying basic CSS properties like margins, padding, and borders  
+- Working with `flexbox` for layout  
+- Styling images with `border-radius`  
+
+> Learned from: [Scrimba – HTML & CSS Basics Course](https://scrimba.com/)
